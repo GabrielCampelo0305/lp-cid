@@ -1,0 +1,12 @@
+{
+  "quantidade": 3,
+  "termosBloqueados": [
+    "cura", "curar", "curado", "curada",
+    "agende", "agendar", "agendamento", "agenda aberta", "agendas abertas",
+    "vaga", "vagas", "ultimas vagas",
+    "preco", "precos", "r$", "promocao", "desconto",
+    "garantia", "garantido", "garantida", "resultado garantido",
+    "depoimento", "depoimentos"
+  ],
+  "postsBloqueados": []
+}
